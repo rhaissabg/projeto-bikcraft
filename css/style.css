@@ -32,6 +32,9 @@
 @import url("/css/contato/contato.css");
 @import url("/css/contato/lojas.css");
 
+/*Orçamento*/
+@import url("/css/orcamento/orcamento.css");
+
 /*Termos*/
 @import url("/css/termos/termos.css");
 
